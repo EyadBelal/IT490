@@ -1,8 +1,8 @@
 # IT490
  Systems Integration Project
 Group Members: 
-Aashvi Patel
-Eyad Belal
-Jasprit Singh 
-Tahmid Hossain 
-Ali  Alhau
+Aashvi Patelb <br> </br>
+Eyad Belal    <br> </br>
+Jasprit Singh <br> </br>
+Tahmid Hossain <br> </br>
+Ali  Alhau     <br> </br>
