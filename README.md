@@ -1,6 +1,5 @@
 # IT490
  Systems Integration Project
- 
 Group Members: 
 Aashvi Patel
 Eyad Belal
