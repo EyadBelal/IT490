@@ -1,0 +1,3 @@
+// JavaScript source code
+sudo systemctl start rabbitmq-server.service
+echo "RMQ is running"
