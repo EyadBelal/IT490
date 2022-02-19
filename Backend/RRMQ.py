@@ -4,7 +4,7 @@ import pika, sys, os
 # connection to ali's 
 def main():
     credentials = pika.PlainCredentials(username='test', password='test')
-    connection = pika.BlockingConnection(pika.ConnectionParameters(host='Put my IP in here', credentials=credentials))
+    connection = pika.BlockingConnection(pika.ConnectionParameters(host='172.29.212.142', credentials=credentials))
     channel = connection.channel()
 
 #declare the queue
