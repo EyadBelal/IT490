@@ -3,7 +3,7 @@ import pika
 
 #Ali's site credentials
 credentials = pika.PlainCredentials(username='test', password='test')
-connection = pika.BlockingConnection(pika.ConnectionParameters(host='MY IP', credentials=credentials))
+connection = pika.BlockingConnection(pika.ConnectionParameters(host='172.29.212.142', credentials=credentials))
 
 channel = connection.channel()
 
