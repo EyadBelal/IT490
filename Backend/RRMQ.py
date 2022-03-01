@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 import pika, sys, os
 
-# connection to ali's 
+#connection to Eyad's rabbitmq management 
 def main():
     credentials = pika.PlainCredentials(username='test', password='test')
-    connection = pika.BlockingConnection(pika.ConnectionParameters(host='172.29.212.142', credentials=credentials))
+    connection = pika.BlockingConnection(pika.ConnectionParameters(host='172.29.148.243', credentials=credentials))
     channel = connection.channel()
 
 #declare the queue
