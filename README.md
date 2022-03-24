@@ -1,4 +1,4 @@
 # IT490
  Systems Integration Project
-Group Members /n
-Eyad, Jasprit,Tahmid and Aashvi 
+Group Members 
+Eyad, Jasprit,Tahmid,Aashvi and Darshan  
